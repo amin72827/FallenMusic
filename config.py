@@ -19,7 +19,7 @@ START_IMG = getenv("START_IMG", "https://te.legra.ph/file/f8ba75bdbb9931cbc8229.
 SESSION = getenv("AgEtqVYAIBz31WyrBBjdK2i8aIYndovh8dymI1u9doyOd5YH73WsXanvTiOw99g7zwVMobNUdfEmAEITi0MIiRReM8HeQj9Ua6t0yNtkenEAdik9L8mplzz7DojXJIdksBtKNuBMNggBrB06yyX_dfMUcB49nJcKnbo-b-7hFITypHiN8aBAxSSRnAsIydX3HSuCqVjztPh1YLDdkwVbaRGz5VmuT3Qhx7GabaThHAXCygszzr6fJKoPN6tS9Xkjdh_de4WOdQel_JFtd0Im7s3dhG6orAgxqNMgOaa-ITseZVk3ZetZWHAHgTklhrDsxqiX39aOzYEMVWRfS8SPOPaor2Yu1gAAAAGC_6I6AA", None)
 
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NergizSupport")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ErSohbetttttt")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "NergizMusicSupport")
 
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "7652416346").split()))
 
